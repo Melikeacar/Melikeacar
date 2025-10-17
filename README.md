@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Melike Acar</h1>
-<p align="center">Cloud & AI Enthusiast | DevOps Explorer | LLM Projects Developer</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Melike;Cloud+%26+AI+Enthusiast;DevOps+Explorer;LLM+Projects+Developer" alt="Typing SVG" />
+  </a>
+</h1>
+
 
 ---
 
